@@ -7,6 +7,6 @@
     "start": "node create_product.js"
   },
   "dependencies": {
-    "mongodb": "^5.7.0"
+    "mongodb": "^5.9.2"
   }
 }
